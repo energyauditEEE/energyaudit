@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib.pylot
+seaborn
+streamlit
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.neural_network
+sklearn.ensemble
+sklearn.svm
+sklearn.metrics
+datetime
+io
+altair
